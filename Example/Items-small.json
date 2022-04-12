@@ -1,0 +1,36 @@
+﻿[
+  {
+    "id": 10902,
+    "Key": "r16",
+    "enUS": "Io Rune",
+    "zhTW": "符文：埃歐",
+    "deDE": "[fs]Io-Rune",
+    "esES": "Runa Io",
+    "frFR": "[fs]Rune Io",
+    "itIT": "[fs]Runa Io",
+    "koKR": "이오 룬",
+    "plPL": "Runa Io",
+    "esMX": "Runa Io",
+    "jaJP": "イオ・ルーン",
+    "ptBR": "Runa Io",
+    "ruRU": "Руна Ио",
+    "zhCN": "艾欧符文"
+  },
+  {
+    "id": 10903,
+    "Key": "r16L",
+    "enUS": "Io",
+    "zhTW": "埃歐",
+    "deDE": "Io",
+    "esES": "Io",
+    "frFR": "Io",
+    "itIT": "Io",
+    "koKR": "이오",
+    "plPL": "Io",
+    "esMX": "Io",
+    "jaJP": "イオ",
+    "ptBR": "Io",
+    "ruRU": "Ио",
+    "zhCN": "艾欧"
+  }
+]
