@@ -17,3 +17,19 @@ Current output:
     334 Mana Potion +
     335 Greater Mana Potion +
     336 Super Mana Potion +
+
+
+
+## Formatting
+#### Colors
+* ÿc0 - white
+* ÿc1 - red
+* ÿc2 - green
+* ÿc3 - blue
+* ÿc4 - gold
+* ÿc5 - gray
+* ÿc6 - black
+* ÿc7 - tan
+* ÿc8 - orange
+* ÿc9 - yellow
+* ÿc; - purple
