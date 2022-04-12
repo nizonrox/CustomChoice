@@ -1,0 +1,11 @@
+{
+  "name": "customchoice",
+  "version": "1.0.0",
+  "description": "D2R Custom Item LT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nizonrox",
+  "license": "ISC"
+}
