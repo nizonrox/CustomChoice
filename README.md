@@ -36,48 +36,43 @@ Current output:
 
 
 
-## Formatting
-#### Colors
-ÿc0 white1 
-ÿc= white2 
-ÿc5 gray1 
-ÿcK gray2 
-ÿcI gray3 
-ÿc6 black1 
-ÿcM black2 
+<details>
+  <summary>Colors </summary>
 
-ÿcE lightred 
-ÿc1 red1 
-ÿcU red2 
-ÿcS darkred
-
-ÿc@ orange1 
-ÿc8 orange2 
-ÿcJ orange3 
-ÿcL orange4 
-
-ÿc7 lightgold1 
-ÿcH lightgold2 
-ÿc4 gold1 
-ÿcD gold2 
-
-ÿc9 yellow1 
-ÿcR yellow2 
-
-ÿc2 green1 
-ÿcQ green2 
-ÿcC green3 
-ÿc< green4 
-ÿcA darkgreen1 
-ÿc: darkgreen2 
-
-ÿcN turquoise 
-ÿcT skyblue 
-ÿcF lightblue1 
-ÿcP lightblue2  
-ÿc3 blue1 
-ÿcB blue2 
-
-ÿcG lightpink 
-ÿcO pink 
-ÿc; purple
+ÿc0 white1<br>
+ÿc= white2<br>
+ÿc5 gray1<br>
+ÿcK gray2<br>
+ÿcI gray3<br>
+ÿc6 black1<br>
+ÿcM black2<br>
+ÿcE lightred<br>
+ÿc1 red1<br>
+ÿcU red2<br>
+ÿcS darkred<br>
+ÿc@ orange1<br>
+ÿc8 orange2<br>
+ÿcJ orange3<br>
+ÿcL orange4<br>
+ÿc7 lightgold1<br>
+ÿcH lightgold2<br>
+ÿc4 gold1<br>
+ÿcD gold2<br>
+ÿc9 yellow1<br>
+ÿcR yellow2<br>
+ÿc2 green1<br>
+ÿcQ green2<br>
+ÿcC green3<br>
+ÿc< green4<br>
+ÿcA darkgreen1<br>
+ÿc: darkgreen2<br>
+ÿcN turquoise<br>
+ÿcT skyblue<br>
+ÿcF lightblue1<br>
+ÿcP lightblue2<br>
+ÿc3 blue1<br>
+ÿcB blue2<br>
+ÿcG lightpink<br>
+ÿcO pink<br>
+ÿc; purple<br>
+</details>
