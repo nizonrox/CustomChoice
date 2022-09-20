@@ -1,8 +1,10 @@
-# CustomChoice
-Diablo 2:R enUS JSON string modifying tool
+<img src="./Extra/Logo/CustomChoice.png" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
 
-This tool is made for parsing D2R JSON and editing it to each their own taste.
+# Diablo 2:R JSON Modifyer
+###### This tool is made for parsing D2R JSON and editing it to each their own taste.
 
+> **Note**
+> This tool is under development, any features are subject to change.
 
 Current output:
 
