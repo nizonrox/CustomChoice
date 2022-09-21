@@ -1,4 +1,4 @@
-<img src="./Extra/Logo/CustomChoice.png" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
+<img src="./Extra/Logo/CustomChoice.png" align="right" height="60" />
 
 # Diablo 2:R JSON Modifyer
 ###### This tool is made for parsing D2R JSON and editing it to each their own taste.
